@@ -1,0 +1,6 @@
+PURPOSE
+Find a path through a maze.
+
+DEMOSTRATES
+Stack as Linked List
+Backtracking

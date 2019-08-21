@@ -1,0 +1,3 @@
+PURPOSE
+Find the shortest path through a maze using a position queue to schedule
+future positions to visit.

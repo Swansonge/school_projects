@@ -1,2 +1,8 @@
 Read in the definition of an arbitrary convex polygon, and then
 compute both the circumerence and the area of the polygon.
+DEMONSTRATES
+C++ CLASSES
+Accessor Member Functions
+Mutator Member Functions
+Constructor Member Functions
+Input/Output Member Functions

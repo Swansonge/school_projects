@@ -1,0 +1,6 @@
+PURPOSE
+Count the number of occurrences of each word in a text file
+
+DEMONSTRATES
+Binary Search Trees
+Class Templates

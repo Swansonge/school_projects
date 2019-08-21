@@ -1,0 +1,1 @@
+In lab 4 a the time obtained from a real-time clock was displayed on an LCD screen.

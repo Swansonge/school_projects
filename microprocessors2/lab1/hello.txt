@@ -1,0 +1,1 @@
+In Lab 1 LEDs were controlled and blinked by the microcontroller

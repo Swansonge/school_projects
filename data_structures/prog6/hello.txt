@@ -1,0 +1,7 @@
+PURPOSE
+This is an interactive polygon statistics program. A polygon is entered the keyboard.
+Then, upon command, the program will display the circumference and area of
+the polygon.
+
+DEMONSTRATES
+Singly Linked Lists

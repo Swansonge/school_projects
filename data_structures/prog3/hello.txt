@@ -1,0 +1,2 @@
+Read in the definition of an arbitrary convex polygon, and then
+compute both the circumerence and the area of the polygon.

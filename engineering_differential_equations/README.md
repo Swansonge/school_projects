@@ -1,0 +1,1 @@
+Engineering Differential Equations expanded on all the Calculus courses I had taken (Calc 1, Calc 2, and Calc 3) at my university. It focused on using differential equations to solve "real world" eningeering problems. Matlab was used to demonstrate how the theory could be executed in code. 

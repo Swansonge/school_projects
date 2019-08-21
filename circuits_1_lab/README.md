@@ -1,0 +1,1 @@
+Circuits 1 Lab introduced electrical engineering and computer engineering students to working in a lab with DC circuits. Part of this included taking measurements and then using this data in Matlab to create plots and such.

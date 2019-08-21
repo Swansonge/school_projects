@@ -1,5 +1,0 @@
-PURPOSE
-Count the number of occurrences of each word in a file
-
-DEMONSTRATES
-Heaps and Heap Sort

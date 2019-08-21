@@ -1,1 +1,0 @@
-direction field for the first-order differential equation dy/dx = f(x, y)

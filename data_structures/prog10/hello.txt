@@ -1,0 +1,6 @@
+
+PURPOSE
+Count the number of occurrences of each word in a file
+
+DEMONSTRATES
+Hash Tables

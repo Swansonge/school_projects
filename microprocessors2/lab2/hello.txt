@@ -1,0 +1,1 @@
+Lab 2 expanded on the work done in Lab 1 by now controlling LEDs with the PIC24's Timer2 module and a pushbutton in the external circuit.

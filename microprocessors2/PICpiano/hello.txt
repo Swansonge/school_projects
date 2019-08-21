@@ -1,0 +1,1 @@
+For my course project, I decided to create a simple piano keyboard using the PIC24 microcontroller. The keyboard was one octave and used pulse-width modulation utilizing delays to create the desired frequencies.

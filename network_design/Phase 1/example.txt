@@ -1,0 +1,2 @@
+As Dr. Vokkrane mentioned in class, we didn't need to transfer a file, only a text string. Below is the text I typed in the command line when propmted by the program:
+network design

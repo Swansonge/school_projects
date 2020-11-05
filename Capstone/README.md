@@ -1,0 +1,1 @@
+My senior engineering capstone project was focused on building a prototype system to detect birds with two webcams and OpenCV object recognition in python. The code I worked on was the getDepth() function. This function would calculate how far away an object was based on a disparity map created by the differences in the pictures taken by the two webcams.

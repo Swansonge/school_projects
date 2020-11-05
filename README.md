@@ -10,5 +10,5 @@ Electronics 1 Lab - Matlab;
 Engineering Differential Equations - Matlab;
 Microprocessors 1 - Assembly, MPLAB X IDE;
 Microprocessors 2 - C, MPLAB X IDE;
-Network Design - Python
-Capstone - Python
+Network Design - Python;
+Capstone - Python;
